@@ -1,3 +1,4 @@
+prev | [index](index.md) | [next](character-creation.md)
 # Introduction to Heroless
 Heroless is a skill-based tabletop roleplaying game of survival, consequence, and creative problem-solving. There are no levels, no classes, and no stat blocks—just your choices, your gear, and the odds.
 

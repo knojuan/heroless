@@ -49,25 +49,69 @@ See Appendix A: Skill Reference Table for a complete list of available skills, e
 ## Skills
 
 ### Agility
-**Used for:**
-Reacting quickly, navigating tight spaces, and avoiding direct attacks. Governs physical movement and reflex under pressure.
+*Balance, reflexes, and precision in motion*
+
+Agility measures a character’s finesse, coordination, and quick reaction time. It governs actions that rely on nimble footwork, careful positioning, or evasive maneuvers. Where Athletics is used for raw exertion and endurance, Agility is used when split-second timing or fine control is critical. Characters with a high Agility skill can avoid danger, reposition fluidly, and execute acrobatic movements with precision.
+
+- Used for actions involving **dodging, tumbling, balancing, or reflexive movement**.
+- Associated with **quickness and control**, not sustained effort.
+- Common in **combat defense**, **tight navigation**, and **reaction-based challenges**.
 
 **Related Actions:**
-[[Actions#Evade]], [[Actions#Sprint]]
+[[Actions#Evade]]
 
 ---
-### Light Armor
-**Used for:**
-Maximizing protection while preserving mobility. Covers proficiency with flexible or partial armor and its tactical application in combat.
+### Athletics
+*Physical power, endurance, and the ability to exert force over time*
+
+Athletics represents a character’s raw physical capability—sprinting across open ground, climbing walls, jumping across gaps, or pushing through exhaustion. Where Agility governs finesse and reactive movement, Athletics is used when brute strength, momentum, or stamina are required. Characters with a high Athletics skill can endure physical strain, move quickly over rough terrain, and overcome obstacles that require force or endurance.
+
+- Used for actions that involve **running, climbing, jumping, lifting, or forcing**.
+- Associated with physical exertion, **not** reflexive precision.
+- Common in **exploration**, **combat positioning**, and **environmental traversal**.
+
+**Related Actions**:  
+[[Actions#Jump]], [[Actions#Sprint]]
+
+---
+### Light Armor 
+*Wearing and maneuvering in minimal or flexible protective gear*
+
+Light Armor reflects a character’s ability to move comfortably while wearing minimal armor, such as padded, leather, or layered textile gear. It assumes an emphasis on mobility and agility rather than full protection. Skilled users can maintain full range of motion, avoid noise penalties, and make the most of limited protection without compromising speed.
+
+- Affects use of **padded, leather, or flexible armor types**.
+- Emphasizes **mobility, comfort, and stealth compatibility**.
 
 **Related Actions:**
 [[Actions#Deflect]]
 
 ---
 ### Heavy Armor
-**Used for:**
-Reducing damage through the use of heavy protective equipment. Represents knowledge, conditioning, and technique required to move and defend effectively while wearing armor.
+*Endurance, stance, and control while wearing bulky protective gear*
+
+Heavy Armor reflects a character’s training and discipline while encased in full or partial rigid armor, such as mail, plate, or reinforced constructs. It emphasizes endurance, stability, and the ability to operate effectively despite the constraints of weight and bulk. Skilled users can move efficiently, absorb blows, and minimize fatigue or vulnerability due to encumbrance.
+
+- Affects use of **chainmail, scale, plate, and other heavy gear**.
+- Emphasizes **protection, stance, and energy conservation**.
 
 **Related Actions:**
 [[Actions#Brace]], [[Actions#Deflect]]
 
+---
+### Stealth
+*Concealment of movement, presence, and intention*
+
+Stealth represents a character’s ability to remain unnoticed by others—through silence, shadow, cover, and timing. It is used to hide, move quietly, evade detection, or position oneself without being seen. Stealth requires awareness of the environment, control of noise and silhouette, and a practiced sense of when to move or remain still. It is not used for hand-based trickery or deception, but for physically avoiding notice.
+
+- Used for actions involving **hiding, sneaking, stalking, and evading detection**.
+- Common in **ambushes, infiltration, and escape scenarios**.
+
+**Related Actions:**
+[[Actions#Hide]], [[Actions#Move Undetected]], [[Actions#Shadow Strike]]
+
+**Example Actions**:  
+- *Hide* — conceal yourself from view using terrain or cover  
+- *Move Silently* — cross dangerous or patrolled terrain without drawing attention  
+- *Shadow* — follow a person or group without being seen  
+- *Set Ambush* — prepare to strike without alerting enemies  
+- *Avoid Detection* — remain unseen while under observation

@@ -36,6 +36,20 @@ To reflect the spectrum between outright success and failure, Heroless includes 
 |1–2 above DC|Success +1/+2|Strong success. Extra efficiency, insight, or added benefit.|
 |3 or more above DC|Success +3|Exceptional success. May enable new opportunities or chain actions.|
 
+
+## Degree of Success or Failure
+Every roll produces not just a binary success/failure, but a degree of outcome:
+- Success: Roll ≥ DC
+- Degree Success: Roll ≥ DC + 3 → Bonus effect
+- Failure: Roll < DC
+- Degree Failure: Roll ≤ DC - 3 → Complication
+
+|Degree|Effect Example|Usage|
+|---|---|---|
+|±2|Minor bonus or penalty (e.g., AP refund/loss, +1/-1 future roll)|Simple actions or low-stakes situations|
+|±3|Moderate bonus or penalty (e.g., knockback, minor wound, AP drain)|Standard for most combat actions|
+|±4 or more|Major bonus or penalty (e.g., break armor, inflict lasting wound)|High-risk actions or critical results|
+
 ---
 ## Attack Resolution Table
 

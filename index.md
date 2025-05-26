@@ -1,0 +1,7 @@
+1. [Introduction](readme.md)
+2. [Character Creation](character-creation.md)
+	- [Concept](character-creation.md#Concept)
+	- [Traits](character-creation.md#Traits)
+	- [Skills](character-creation.md#Skills)
+	- [Equipment](character-creation.md#Equipment)
+3. [Traits](traits.md)
