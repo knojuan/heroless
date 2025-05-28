@@ -21,7 +21,7 @@
 - *<Action Name>* — <Brief description> 
 
 **Related Actions**:
-[<Action Name>](actions.md#<Action-Name>)
+[<Action Name>](09_actions.md#<Action-Name>)
 
 # Action
 ### <Action Name>  
@@ -29,7 +29,7 @@
 
 <Descriptive narrative of what the action represents, its flavor, and how it might appear in-game. Provide enough imagery or context to support immersion and mechanical clarity.>
 
-[<Related Skill>](skills.md#<Related%20Skill>)
+[<Related Skill>](04_skills.md#<Related%20Skill>)
 - <Step-by-step mechanical instructions for executing the action>
 - <Include relevant skill rolls, modifiers, or references to equipment or conditions>
 - <Clarify what happens on success, partial success if applicable, and what doesn't happen>

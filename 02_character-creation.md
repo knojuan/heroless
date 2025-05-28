@@ -1,3 +1,4 @@
+[prev](readme.md) | [index](00_index.md) | [next](03_traits.md)
 # Character Creation
 Every character in Heroless is defined by what they can do. There are no classes or attributes—only skills, traits, and the choices that shape them. The process below walks you through building your character step-by-step, starting with a concept and ending with a ready-to-play adventurer.
 
@@ -24,7 +25,7 @@ You may choose:
 
 Traits provide benefits to certain rolls or capacities and can shape how your character approaches challenges. Choose one that fits your concept and playstyle.
 
-You’ll find a full list of traits and their effects in the [Traits](traits.md#Traits) section.
+You’ll find a full list of traits and their effects in the [Traits](03_traits.md#Traits) section.
 
 ---
 ## Choose Your Skills  
@@ -39,7 +40,7 @@ There are no attributes in Heroless—**skills drive your effectiveness** in all
 
 You do **not** need to spread skills across different categories—choose what fits your character concept. Some players prefer a broad spread, others lean into a single focus.
 
-You’ll find a full list of skills and what they cover in the [Skills](skills.md#Skills) section.
+You’ll find a full list of skills and what they cover in the [Skills](04_skills.md#Skills) section.
 
 ---
 ## Choose Your Equipment

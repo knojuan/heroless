@@ -1,3 +1,4 @@
+[prev](03_traits.md) | [index](00_index.md) | [next](05_equipment.md)
 # What Are Skills
 
 Skills represent the learned abilities and natural aptitudes your character relies on to act effectively in the world. Every action in *Heroless* is tied to a skill, and your skill levels define what your character is good at—and how good they are at it.
@@ -39,7 +40,7 @@ The GM may allow a skill to increase after:
 Skill progression is not automatic and may be limited by in-world access, opportunity, or narrative justification.
 
 > **For details on training, cost, and downtime-based advancement, see**  
-> **[Downtime & Progression](#downtime--progression)**
+> **[Downtime & Progression](10_downtime.md)**
 
 ---
 ## Choosing Skills Wisely
@@ -80,7 +81,7 @@ Agility measures a character’s finesse, coordination, and quick reaction time.
 - Common in **combat defense**, **tight navigation**, and **reaction-based challenges**.
 
 **Related Actions:**
-[Evade](actions.md#Evade)
+[Evade](09_actions.md#Evade)
 
 ---
 ### Athletics
@@ -93,8 +94,8 @@ Athletics represents a character’s raw physical capability—sprinting across 
 - Common in **exploration**, **combat positioning**, and **environmental traversal**.
 
 **Related Actions**:  
-[Jump](actions.md#Jump)
-[Sprint](actions.md#Sprint)
+[Jump](09_actions.md#Jump)
+[Sprint](09_actions.md#Sprint)
 
 ---
 ### Diplomacy
@@ -112,9 +113,9 @@ Diplomacy governs a character’s ability to affect others through verbal and no
 - *Deceive* — mislead others through lies, omissions, or redirection  
 
 **Related Actions**:  
-[Persuade](actions.md#Persuade)  
-[Intimidate](actions.md#Intimidate)  
-[Deceive](actions.md#Deceive)
+[Persuade](09_actions.md#Persuade)  
+[Intimidate](09_actions.md#Intimidate)  
+[Deceive](09_actions.md#Deceive)
 
 ---
 ### Light Armor 
@@ -126,7 +127,7 @@ Light Armor reflects a character’s ability to move comfortably while wearing m
 - Emphasizes **mobility, comfort, and stealth compatibility**.
 
 **Related Actions:**
-[Deflect](actions.md#Deflect)
+[Deflect](09_actions.md#Deflect)
 
 ---
 ### Heavy Armor
@@ -138,8 +139,8 @@ Heavy Armor reflects a character’s training and discipline while encased in fu
 - Emphasizes **protection, stance, and energy conservation**.
 
 **Related Actions:**
-[Brace](actions.md#Brace)
-[Deflect](actions.md#Deflect)
+[Brace](09_actions.md#Brace)
+[Deflect](09_actions.md#Deflect)
 
 ---
 ### Resolve
@@ -152,7 +153,7 @@ Resolve represents a character’s inner strength—the ability to resist fear, 
 - Common in **magical resistance, high-stress situations, rituals, and structured organizations**.
 
 **Related Actions:**
-[Intimidate](actions.md#Intimidate)
+[Intimidate](09_actions.md#Intimidate)
 
 ---
 ### Stealth
@@ -164,6 +165,6 @@ Stealth represents a character’s ability to remain unnoticed by others—throu
 - Common in **ambushes, infiltration, and escape scenarios**.
 
 **Related Actions:**
-[Hide](actions.md#Hide)
-[Move Undetected](actions.md#Move%20Undetected)
-[Shadow Strike](actions.md#Shadow%20Strike)
+[Hide](09_actions.md#Hide)
+[Move Undetected](09_actions.md#Move%20Undetected)
+[Shadow Strike](09_actions.md#Shadow%20Strike)

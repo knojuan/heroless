@@ -1,3 +1,4 @@
+[prev](02_character-creation.md) | [index](00_index.md) | [next](04_skills.md)
 # What Are Traits
 Traits represent unique characteristics that define a character's background, quirks, strengths, or adaptations. Unlike skills, which affect a wide range of actions, traits offer **narrow, situational advantages** or impactful tradeoffs that help shape your playstyle and identity.
 

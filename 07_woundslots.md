@@ -1,3 +1,4 @@
+[prev](06_combat.md) | [index](00_index.md) | [next](08_resolutions.md)
 # Health & Wounds
 In Heroless, characters do not track hit points. Instead, injury is modeled through individual wounds, each with a severity level and specific consequences. Every wound matters, and enough accumulated trauma can kill even the most resilient traveler.
 

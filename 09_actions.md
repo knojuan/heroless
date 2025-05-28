@@ -1,3 +1,4 @@
+[prev](08_resolutions.md) | [index](00_index.md) | [next](10_downtime.md)
 # Actions
 ## Defensive
 
@@ -6,7 +7,7 @@
 
 You hold your ground, shifting your stance and tightening behind your armor to absorb the force of an incoming blow. It’s not about speed—it’s about resolve. You may not avoid the hit, but you’re prepared to take it head-on.
 
-[[skills#Heavy Armor]]
+[Heavy Armor](04_skills.md#Heavy%20Armor)
 - Declare before an incoming attack roll.  
 - If the attack hits and would cause a wound:  
 	- Reduce wound severity by **1 + Heavy Armor skill level**.  
@@ -19,7 +20,7 @@ You hold your ground, shifting your stance and tightening behind your armor to a
 
 Instead of absorbing the full brunt of the attack, you shift your posture to let the blow glance off your armor. It’s a practiced maneuver—not one of brute resistance, but of angles and timing—meant to preserve the gear that might save your life in the next exchange.
 
-[[skills#Heavy Armor]], [[skills#Light Armor]]
+[Heavy Armor](04_skills.md#Heavy%20Armor), [Light Armor](04_skills.md#Light%20Armor)
 - Declare before an incoming attack roll.  
 - If the attack hits and would cause your armor to lose durability, compare the attacker’s roll to your **Deflect DC**:
 	- **Deflect DC = 8 + your armor skill modifier** (Light or Heavy Armor)
@@ -32,7 +33,7 @@ Instead of absorbing the full brunt of the attack, you shift your posture to let
 
 With a quick read of your opponent’s movement, you attempt to slip aside at just the right moment. It’s not about blocking the strike—it’s about not being where the weapon lands. A risky gamble, but sometimes agility is your only shield.
 
-[[skills#Agility]]
+[Agility](04_skills.md#Agility)
 - Declare before an incoming attack roll.  
 - The attacker’s roll is reduced by **1 + Agility skill level**.  
 - If the modified result causes the attack to miss, no wound or armor damage occurs.  
@@ -63,7 +64,7 @@ With a quick read of your opponent’s movement, you attempt to slip aside at ju
 
 From the shroud of foliage, shadows, or smoke, the attacker looses a projectile with deadly intent. The shot is swift and sudden, offering no clear origin point. Enemies reel from the impact, but can only guess where it came from.
 
-[[skills#Stealth]]
+[Stealth](04_skills.md#Stealth)
 - Attack as normal using a ranged attack while hidden
 - On a hit
 	- Roll 2d6 and add the **Stealth** skill modifier
@@ -103,7 +104,7 @@ You lend your attention, effort, or expertise to support another character's act
 
 You present a falsehood as truth using confidence, omission, or manipulation. This could be a lie, a false identity, forged credentials, or misdirection during a negotiation.
 
-[Diplomacy](skills.md#Diplomacy)
+[Diplomacy](04_skills.md#Diplomacy)
 - Describe the falsehood and how it is being delivered
 - Roll Diplomacy against a DC set by the GM based on plausibility and skepticism of the target
 - Success means the target accepts or acts upon the deception
@@ -117,13 +118,13 @@ You present a falsehood as truth using confidence, omission, or manipulation. Th
 
 You use fear, coercion, or force of presence to compel action. This could be a verbal threat, a show of overwhelming strength, or invoking authority the target respects—or fears.
 
-[Diplomacy](skills.md#Diplomacy)
+[Diplomacy](04_skills.md#Diplomacy)
 - Describe the threat or presence being projected
 - Roll Diplomacy against a DC set by the GM based on the target’s resolve and the credibility of the threat
 - Success causes the target to comply or back down
 - Failure may provoke resistance, mockery, or retaliation
 
-*GMs may allow [Resolve](skills.md#Resolve) checks as the target’s defense. Intimidation can damage rapport or trust if overused.*
+*GMs may allow [Resolve](04_skills.md#Resolve) checks as the target’s defense. Intimidation can damage rapport or trust if overused.*
 
 ---
 ### Jump  
@@ -131,7 +132,7 @@ You use fear, coercion, or force of presence to compel action. This could be a v
 
 A sudden burst of movement, the Jump action is used to leap across gaps, ascend to higher ground, or avoid obstacles. Its success depends on momentum, distance, and the character’s physical aptitude.
 
-[[skills#Athletics]]
+[Athletics](04_skills.md#Athletics)
 - Roll 2d6 and add the **Athletics** skill modifier
 - The **DC** is determined by the GM based on distance and difficulty
 
@@ -154,7 +155,7 @@ You move carefully through your surroundings, staying alert to danger and mainta
 
 You move stealthily through your surroundings without drawing attention. When successful, the character may reposition while remaining hidden from enemies.
 
-[[skills#Stealth]]
+[Stealth](04_skills.md#Stealth)
 - Roll 2d6 and add the **Stealth** skill modifier
 - The **DC** is determined by the GM based on distance and difficulty
 
@@ -168,7 +169,7 @@ You move stealthily through your surroundings without drawing attention. When su
 
 You attempt to influence someone's beliefs or decisions through reason, empathy, or mutual interest. Persuasion is most effective when goals align, trust is present, or emotions can be redirected.
 
-[Diplomacy](skills.md#Diplomacy)
+[Diplomacy](04_skills.md#Diplomacy)
 - Clearly state what you're asking the target to do or believe
 - Roll Diplomacy against a DC set by the GM based on the target's disposition and the nature of the request
 - Success means the target agrees or complies within reason
@@ -193,7 +194,7 @@ You take a focused moment to examine your surroundings. Whether you're checking 
 
 You push your body beyond normal pacing, covering more ground at the expense of attention and combat readiness. Sprinting is faster but riskier.
 
-[[skills#Athletics]]
+[Athletics](04_skills.md#Athletics)
 - Move **2x your base movement speed** plus your **Athletic skill modifier**.
 
 ---

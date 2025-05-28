@@ -1,3 +1,4 @@
+[prev](04_skills.md) | [index](00_index.md) | [next](06_combat.md)
 # Armor
 Armor in Heroless provides critical protection against the dangers of combat, absorbing the force of attacks and reducing the severity of injuries. Unlike in many systems, armor does not prevent hits—it reduces the consequences of being struck.
 
@@ -20,7 +21,7 @@ There are two types of armor, each with its own tradeoffs between durability, ag
 - If armor is reduced to 0 durability, it no longer provides a Wound Reduction, all other penalties remain while equipped.
 - Zero durability armor may be repaired, but loses one level of quality, armor will not drop below poor quality.
 
-[[Actions#Deflect]] is the only way to prevent durability loss once an armor-reducing hit lands. It must be declared before the attack roll and costs 1 AP.
+[Deflect](09_actions.md#Deflect) is the only way to prevent durability loss once an armor-reducing hit lands. It must be declared before the attack roll and costs 1 AP.
 
 Armor durability values are based on Common quality. Apply quality multipliers to adjust actual durability.
 
