@@ -1,4 +1,4 @@
-prev | [index](index.md) | [next](character-creation.md)
+prev | [00_index](00_index.md) | [next](character-creation.md)
 # Introduction to Heroless
 Heroless is a skill-based tabletop roleplaying game of survival, consequence, and creative problem-solving. There are no levels, no classes, and no stat blocks—just your choices, your gear, and the odds.
 
@@ -10,7 +10,6 @@ Every character is built through skills. Anyone can attempt anything, but those 
 - Lethal Combat: Fights are fast and dangerous. One good hit can end a battle. Armor breaks, wounds linger, and poor positioning can be fatal.
 - Freeform Magic, Real Risk: Magic is powerful and open-ended, but it’s never free. Casters choose the effect, power, and source—but every cast invites exhaustion, injury, or worse.
 - Gear and Resource Management: You don’t track every item, but you don’t have everything either. What you have depends on preparation and chance—and what you don’t have may matter most.
-- Rules-Light, Tension-Heavy: A consistent 2d6 roll mechanic drives all challenges. The focus is on narrative clarity, player agency, and emergent problem-solving, not rule crunch.
 
 ## What You’ll Do in the Game
 

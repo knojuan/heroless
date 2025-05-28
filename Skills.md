@@ -1,49 +1,71 @@
-# What Are Skills?
-In Heroless, your character is defined entirely by what they can do. Skills are the foundation of every action—from survival in harsh environments to crafting tools, reading ancient languages, or persuading a hostile crowd. There are no classes or attributes in this system—only what your character has learned and how effectively they can apply it.
+# What Are Skills
 
-Any character can attempt any action. However, trained characters succeed more reliably and can push the limits of what’s possible. Skills shape not only the outcome of a roll but the types of strategies available to a character in the world.
+Skills represent the learned abilities and natural aptitudes your character relies on to act effectively in the world. Every action in *Heroless* is tied to a skill, and your skill levels define what your character is good at—and how good they are at it.
 
----
-## Acquiring and Improving Skills
-Characters may develop new skills or improve existing ones during downtime between sessions. Skill advancement represents structured training, applied practice, or guided mentorship, and is tracked using the Downtime Allocation System (see Downtime Allocation System).
-
-Skill levels and their mechanical bonuses:
-- Novice: +1
-- Advanced: +3
-- Master: +5 (applies only to the chosen specialization)
-
-### Requirements for Learning and Advancement
-Skill acquisition and improvement require Downtime Units (DU), accumulated across Downtime Sessions (DS):
-- Novice (+1): Requires investing 10 DU, spent across at least 1 consecutive DS
-- Advanced (+3): Requires investing 20 DU, spent across at least 2 consecutive DS
-- Master (+5): Requires investing 30 DU, spent across at least 3 consecutive DS, and a chosen specialization
-
-Note: DU investments are cumulative and improvements must be made sequentially. A character may only gain Mastery in one specialization per skill.
-
-#### Mentorship and Accelerated Learning
-At the GM’s discretion, required DU costs may be reduced if the character gains access to a mentor, formal school, or other opportunity that demonstrates sufficient mastery and is actively teaching the skill. These sources of instruction can significantly reduce the time and effort required to learn or improve a skill, depending on the quality of instruction and the character’s commitment.
+Skills are not abstract stats or attributes. They are practical, applicable areas of competence. Whether you're hunting, healing, deceiving, crafting, or negotiating, your skills shape both what you attempt and how likely you are to succeed.
 
 ---
-## Maintaining Skills
-Skills degrade if not maintained. This reflects the natural loss of sharpness over time without regular use, study, or rehearsal. Every skill requires a constant upkeep during each Downtime Session:
-- Novice: 2 DU per DS
-- Advanced: 4 DU per DS
-- Master: 6 DU per DS
+## Skill Levels
 
-If a character fails to allocate the required DU during a DS, the skill deteriorates by one level. For example, a neglected Advanced skill drops to Novice. To recover the lost level, the full DU cost of that level must be reinvested.
+Each skill has one of four levels:
 
-Maintaining multiple skills becomes increasingly difficult. Players must choose which skills to focus on and accept that some may fade without regular attention.
+- **Untrained** — No bonus. You can attempt basic tasks, but difficulty is higher and results are less reliable.
+- **Novice** — +1 bonus. You’ve trained in this area and can perform moderately difficult tasks with consistency.
+- **Advanced** — +2 bonus. You are highly skilled and capable of tackling complex or demanding challenges.
+- **Master** — +3 bonus. You’re among the best. Mastery offers maximum reliability and impact.
 
----
-## Specialization and Mastery
-When a skill reaches Master, the player may choose a Specialization, representing focused expertise. Specializations narrow the skill’s scope but grant Mastery (+5) within that focus area only. The character will continue to receive a (+3) bonus to the skill in general.
-
-A character may only hold one specialization per skill, and may only reach Master level in that specialization.
+Most characters begin play with **two Novice skills** and **one Advanced skill**. Over time, skills can improve through focused downtime and narrative development.
 
 ---
-## Reference
-See the Downtime Allocation System for full rules on Downtime Sessions, Downtime Units, and allocation strategies.
-See Appendix A: Skill Reference Table for a complete list of available skills, example actions, and common specializations.
+## Using Skills in Play
+
+Most actions in *Heroless* reference a specific skill. When you attempt something meaningful, the GM will determine which skill applies and whether a check is required.
+
+Skilled characters have a higher chance of success and are capable of attempting more difficult or specialized tasks. While any character can try any action, those with relevant skill training will perform more consistently and suffer fewer consequences on failure.
+
+**Example**:  
+If you're trying to set an ambush, the GM may call for a *Stealth* check. A character with Stealth at Advanced will have a better chance of surprising the enemy than one who is untrained.
+
+---
+## Skill Advancement
+
+Skills improve as a result of effort, training, and experience. Advancement is typically tied to **downtime activities**, not just in-session rolls. A character must spend time practicing, studying, or applying the skill meaningfully in order to improve.
+
+The GM may allow a skill to increase after:
+- Repeated use in high-risk situations
+- Time spent training with a teacher or mentor
+- Focused self-practice during downtime
+
+Skill progression is not automatic and may be limited by in-world access, opportunity, or narrative justification.
+
+> **For details on training, cost, and downtime-based advancement, see**  
+> **[Downtime & Progression](#downtime--progression)**
+
+---
+## Choosing Skills Wisely
+
+Each skill supports a wide range of related actions. For example:
+
+- *Survival* might include foraging, navigating wilderness, and recognizing hazards.
+- *Crafting* could cover repair, construction, and resource conversion.
+- *Diplomacy* supports persuasion, intimidation, negotiation, and lying.
+
+Choose skills that match how you envision your character behaving. Do you want to support the group through tactics and scouting? Influence others with charm or pressure? Build, heal, or guide? Your skill choices should reflect your concept.
+
+---
+## Skill Limits and Balance
+
+There are no restrictions on which skills you select—any combination is valid. However, skills cannot exceed **Master level**, and very few characters will reach Mastery during early play. Advancement becomes slower over time to encourage broader development rather than immediate specialization.
+
+While you may see characters improve their skills over time, you will rarely see a character become the best at everything. Skill diversity and interdependence are part of the system’s core design.
+
+---
+## Final Notes
+
+- Skills are your mechanical foundation. Choose them with intention.
+- Traits can enhance specific actions or circumstances, but **skills are the core of your success rate**.
+- Advancement takes effort—consider which skills you’re likely to use or grow.
+- Trust your teammates. You don’t have to do everything—just do your part well.
 
 ---
 ## Skills
@@ -58,7 +80,7 @@ Agility measures a character’s finesse, coordination, and quick reaction time.
 - Common in **combat defense**, **tight navigation**, and **reaction-based challenges**.
 
 **Related Actions:**
-[[Actions#Evade]]
+[Evade](actions.md#Evade)
 
 ---
 ### Athletics
@@ -71,7 +93,28 @@ Athletics represents a character’s raw physical capability—sprinting across 
 - Common in **exploration**, **combat positioning**, and **environmental traversal**.
 
 **Related Actions**:  
-[[Actions#Jump]], [[Actions#Sprint]]
+[Jump](actions.md#Jump)
+[Sprint](actions.md#Sprint)
+
+---
+### Diplomacy
+*Influence through speech, tone, and presence*
+
+Diplomacy governs a character’s ability to affect others through verbal and nonverbal communication. It includes persuading, deceiving, negotiating, intimidating, and calming others in social situations. This skill is not about raw charisma but about the practiced application of influence—reading a situation and applying the right pressure or tone to achieve a desired outcome. While some may specialize in deception or intimidation, all social influence begins with Diplomacy.
+
+- Used for actions involving **persuasion, negotiation, intimidation, and deception**.
+- Focuses on **influence**, not knowledge or performance.
+- Common in **social encounters, faction interactions, and interrogation scenes**.
+
+**Example Actions**:  
+- *Persuade* — convince a character to take or avoid a course of action  
+- *Intimidate* — coerce compliance through threat, posture, or presence  
+- *Deceive* — mislead others through lies, omissions, or redirection  
+
+**Related Actions**:  
+[Persuade](actions.md#Persuade)  
+[Intimidate](actions.md#Intimidate)  
+[Deceive](actions.md#Deceive)
 
 ---
 ### Light Armor 
@@ -83,7 +126,7 @@ Light Armor reflects a character’s ability to move comfortably while wearing m
 - Emphasizes **mobility, comfort, and stealth compatibility**.
 
 **Related Actions:**
-[[Actions#Deflect]]
+[Deflect](actions.md#Deflect)
 
 ---
 ### Heavy Armor
@@ -95,7 +138,21 @@ Heavy Armor reflects a character’s training and discipline while encased in fu
 - Emphasizes **protection, stance, and energy conservation**.
 
 **Related Actions:**
-[[Actions#Brace]], [[Actions#Deflect]]
+[Brace](actions.md#Brace)
+[Deflect](actions.md#Deflect)
+
+---
+### Resolve
+*Mental endurance, emotional control, and disciplined focus*
+
+Resolve represents a character’s inner strength—the ability to resist fear, coercion, despair, and magical influence, as well as to maintain mental control through structured thought and willful discipline. It governs the capacity to stay calm under pressure, follow orders or routines in difficult conditions, and suppress instinctive or emotional reactions. Resolve is not about persuasion or spirituality, but the ability to *not break*, *not falter*, and *not be swayed*—whether resisting manipulation or holding formation through sheer will.
+
+- Used for resisting **fear, influence, instinct, distraction, and emotional disruption**.
+- Combines the passive endurance of resilience with the active control of discipline.
+- Common in **magical resistance, high-stress situations, rituals, and structured organizations**.
+
+**Related Actions:**
+[Intimidate](actions.md#Intimidate)
 
 ---
 ### Stealth
@@ -107,11 +164,6 @@ Stealth represents a character’s ability to remain unnoticed by others—throu
 - Common in **ambushes, infiltration, and escape scenarios**.
 
 **Related Actions:**
-[[Actions#Hide]], [[Actions#Move Undetected]], [[Actions#Shadow Strike]]
-
-**Example Actions**:  
-- *Hide* — conceal yourself from view using terrain or cover  
-- *Move Silently* — cross dangerous or patrolled terrain without drawing attention  
-- *Shadow* — follow a person or group without being seen  
-- *Set Ambush* — prepare to strike without alerting enemies  
-- *Avoid Detection* — remain unseen while under observation
+[Hide](actions.md#Hide)
+[Move Undetected](actions.md#Move%20Undetected)
+[Shadow Strike](actions.md#Shadow%20Strike)
