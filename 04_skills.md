@@ -40,7 +40,7 @@ The GM may allow a skill to increase after:
 Skill progression is not automatic and may be limited by in-world access, opportunity, or narrative justification.
 
 > **For details on training, cost, and downtime-based advancement, see**  
-> **[Downtime & Progression](10_downtime.md)**
+> **[Downtime & Progression](13_downtime.md)**
 
 ---
 ## Choosing Skills Wisely
@@ -81,7 +81,7 @@ Agility measures a character’s finesse, coordination, and quick reaction time.
 - Common in **combat defense**, **tight navigation**, and **reaction-based challenges**.
 
 **Related Actions:**
-[Evade](09_actions.md#Evade)
+[Evade](11_actions.md#Evade)
 
 ---
 ### Athletics
@@ -94,8 +94,8 @@ Athletics represents a character’s raw physical capability—sprinting across 
 - Common in **exploration**, **combat positioning**, and **environmental traversal**.
 
 **Related Actions**:  
-[Jump](09_actions.md#Jump)
-[Sprint](09_actions.md#Sprint)
+[Jump](11_actions.md#Jump)
+[Sprint](11_actions.md#Sprint)
 
 ---
 ### Diplomacy
@@ -113,9 +113,9 @@ Diplomacy governs a character’s ability to affect others through verbal and no
 - *Deceive* — mislead others through lies, omissions, or redirection  
 
 **Related Actions**:  
-[Persuade](09_actions.md#Persuade)  
-[Intimidate](09_actions.md#Intimidate)  
-[Deceive](09_actions.md#Deceive)
+[Persuade](11_actions.md#Persuade)  
+[Intimidate](11_actions.md#Intimidate)  
+[Deceive](11_actions.md#Deceive)
 
 ---
 ### Light Armor 
@@ -127,7 +127,7 @@ Light Armor reflects a character’s ability to move comfortably while wearing m
 - Emphasizes **mobility, comfort, and stealth compatibility**.
 
 **Related Actions:**
-[Deflect](09_actions.md#Deflect)
+[Deflect](11_actions.md#Deflect)
 
 ---
 ### Heavy Armor
@@ -139,8 +139,8 @@ Heavy Armor reflects a character’s training and discipline while encased in fu
 - Emphasizes **protection, stance, and energy conservation**.
 
 **Related Actions:**
-[Brace](09_actions.md#Brace)
-[Deflect](09_actions.md#Deflect)
+[Brace](11_actions.md#Brace)
+[Deflect](11_actions.md#Deflect)
 
 ---
 ### Resolve
@@ -153,7 +153,7 @@ Resolve represents a character’s inner strength—the ability to resist fear, 
 - Common in **magical resistance, high-stress situations, rituals, and structured organizations**.
 
 **Related Actions:**
-[Intimidate](09_actions.md#Intimidate)
+[Intimidate](11_actions.md#Intimidate)
 
 ---
 ### Stealth
@@ -165,6 +165,6 @@ Stealth represents a character’s ability to remain unnoticed by others—throu
 - Common in **ambushes, infiltration, and escape scenarios**.
 
 **Related Actions:**
-[Hide](09_actions.md#Hide)
-[Move Undetected](09_actions.md#Move%20Undetected)
-[Shadow Strike](09_actions.md#Shadow%20Strike)
+[Hide](11_actions.md#Hide)
+[Move Undetected](11_actions.md#Move%20Undetected)
+[Shadow Strike](11_actions.md#Shadow%20Strike)

@@ -1,4 +1,4 @@
-[prev](07_woundslots.md) | [index](00_index.md) | [next](09_actions.md)
+[prev](06_combat.md) | [index](00_index.md) | [next](08_woundslots.md)
 
 In Heroless, all uncertain outcomes are resolved with a simple, unified mechanic: roll 2d6, add relevant modifiers, and compare to a Difficulty Check (DC). This system is used for combat, skill challenges, social encounters, environmental hazards, and more.
 

@@ -2,7 +2,7 @@ prev | [index](00_index.md) | [next](02_character-creation.md)
 
 # This system is a WIP
 
-# Introduction to Heroless
+# Introduction to [Heroless](https://github.com/knojuan/heroless)
 Heroless is a skill-based tabletop roleplaying game of survival, consequence, and creative problem-solving. There are no levels, no classes, and no stat blocks—just your choices, your gear, and the odds.
 
 Every character is built through skills. Anyone can attempt anything, but those with training succeed more often and with better results. There are no fixed roles or ability scores—just flexible, open-ended progression and a system that rewards smart, deliberate play.

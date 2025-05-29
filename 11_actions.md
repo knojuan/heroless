@@ -1,5 +1,29 @@
-[prev](08_resolutions.md) | [index](00_index.md) | [next](10_downtime.md)
+[prev](10_magic.md) | [index](00_index.md) | [next](12_inventory-management.md)
 # Actions
+Actions represent everything a character can actively attempt during a scene—whether in combat, exploration, or social encounters. Each action has an **AP cost**, and characters can take any number of actions per round as long as they have the Action Points (AP) to spend.
+
+Actions are divided into categories such as **Defensive**, **Offensive**, and **Utility**, though all follow the same core structure.
+
+Each action defines:
+- **AP cost**
+- **Requirements**, if any
+- A list of mechanical steps or checks
+- Effects based on success or failure
+
+---
+## Skill Use in Actions
+Many actions reference a related **skill**. This can influence outcomes in two distinct ways:
+- **Skill Modifier** refers to the numerical bonus applied to rolls:
+    - **Novice** = +1
+    - **Advanced** = +3
+    - **Master** = +5
+    When you roll dice (e.g., 2d6), this is the number added to the result.
+- **Skill Level** refers to the **tier of training** (Novice = 1, Advanced = 2, Master = 3).  
+    This is used in some actions to determine static effects, scaling bonuses, or contributions to another character’s effort (e.g., “reduce damage by 1 + skill level”).
+
+Always check whether the action calls for your **modifier** (for a dice roll) or your **level** (for a flat value).
+
+---
 ## Defensive
 
 ### Brace
