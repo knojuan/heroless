@@ -11,14 +11,14 @@ There are two types of traits in Heroless, each with a distinct role in shaping 
 
 ### Minor Traits
 
-- Provide a **+1 bonus** to a specific **action** or **limited circumstance**
+- Generally provide a **+1 bonus** to a specific **action** or **limited circumstance**
 - Have **no drawbacks**
 - Safe, subtle, and useful in specific scenarios
 
 ### Major Traits
 
-- Provide a **+1 bonus** to a **skill** or to a **core stat** (AP, Wound Slot, or Inventory Slot)
-- Come with a **-1 penalty** to a specific **action**, **circumstance**, or **skill**
+- Generally provide a **+1 bonus** to a **skill** or to a **core stat** (AP, Wound Slot, or Inventory Slot)
+- Come with a **penalty** to a specific **action**, **circumstance**, or **skill**
 - Offer greater power, but introduce a meaningful tradeoff
 
 This structure allows players to choose between a **low-risk minor benefit** or a **stronger major benefit** with a cost.
@@ -47,22 +47,17 @@ Players are encouraged to bring up their traits during relevant moments. GMs sho
 
 ## Minor
 
+### Field Medic
+You’ve treated wounds on the move—under fire, in the rain, without sleep. You don’t hesitate when someone’s bleeding out.
+
+- Gain **+1 to Stabilize Wound** attempts  
+- Can attempt Stabilize Wound **without penalty** even if no healer’s kit is available
+
+---
 ### Keen Nose
 Your sense of smell is unusually sharp, allowing you to detect subtle odors that others would miss—whether it's spoiled food, nearby predators, or trace scents in the air.
 
 - +1 to checks involving scent-based detection
-
----
-### Sure-Footed
-You’ve trained your body to stay balanced even on shifting stones, crumbling ruins, or slick ground. Where others hesitate, you move confidently.
-
-- +1 to Traverse Hazardous Terrain checks
-
----
-### Quick Reflexes
-You react instinctively to danger and opportunity alike, often acting before others have fully registered the situation.
-
-- +1 to Initiative rolls
 
 ---
 ### Night-Tuned
@@ -77,12 +72,24 @@ Years of experience packing and repacking gear have made you exceptionally effic
 - +1 to Pack Space checks
 
 ---
+### Quick Reflexes
+You react instinctively to danger and opportunity alike, often acting before others have fully registered the situation.
+
+- +1 to Initiative rolls
+
+---
+### Sure-Footed
+You’ve trained your body to stay balanced even on shifting stones, crumbling ruins, or slick ground. Where others hesitate, you move confidently.
+
+- +1 to Traverse Hazardous Terrain checks
+
+---
 ## Major
 
 ### Battle-Hardened
 You've faced fear, pain, and death—and come out stronger. Your resolve is unshakable, but your grim demeanor can alienate others.
 
-- +1 to Resolve skill
+- +1 to Resolve skill checks
 - -1 to Diplomacy checks
 
 ---
@@ -112,3 +119,13 @@ Your body endures beyond normal limits. You push through pain and punishment tha
 
 - +1 Wound Slot
 - -1 to all rolls for healing received
+
+---
+### Woundbinder
+You have studied the art of healing in all its forms—from battlefield triage to slow recovery. Your hands bring comfort and survival where others would perish.
+
+- +1 to Medicine skill checks
+- Can treat and stabilize wounds **without penalty** even if no healer’s kit is available
+- **Focused Intent:**  If you perform **Treat Wound** or **Stabilize Wound** during your turn, you **may not perform offensive actions** in the same round.
+
+---

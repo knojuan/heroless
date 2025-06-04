@@ -98,6 +98,30 @@ Athletics represents a character’s raw physical capability—sprinting across 
 [Sprint](11_actions.md#Sprint)
 
 ---
+### Binding (Magic)
+*Restriction of motion, energy, or magical effect*
+
+The Binding skill governs your ability to suppress, immobilize, or contain beings or forces. This may include restraining a foe, sealing an area, or interrupting magical flow.
+
+- Used for **paralyzing, containing, or suppressing entities or spells**.
+- Common in **crowd control, magical duels, or defensive tactics**.
+
+**Related Actions**:  
+[Cast](10_magic.md#Cast)
+
+---
+### Destruction (Magic)
+*The raw force of unmaking—inflicting damage or collapse*
+
+The Destruction skill governs your ability to cause harm or structural failure through magical means. Flames, force, corrosion, or disintegration all fall within this domain. It is the most direct—and dangerous—application of power.
+
+- Used for **dealing damage or breaking objects and barriers**.
+- Common in **combat, sabotage, and tactical offense**.
+
+**Related Actions**:  
+[Cast](10_magic.md#Cast)
+
+---
 ### Diplomacy
 *Influence through speech, tone, and presence*
 
@@ -118,6 +142,19 @@ Diplomacy governs a character’s ability to affect others through verbal and no
 [Deceive](11_actions.md#Deceive)
 
 ---
+### Heavy Armor
+*Endurance, stance, and control while wearing bulky protective gear*
+
+Heavy Armor reflects a character’s training and discipline while encased in full or partial rigid armor, such as mail, plate, or reinforced constructs. It emphasizes endurance, stability, and the ability to operate effectively despite the constraints of weight and bulk. Skilled users can move efficiently, absorb blows, and minimize fatigue or vulnerability due to encumbrance.
+
+- Affects use of **chainmail, scale, plate, and other heavy gear**.
+- Emphasizes **protection, stance, and energy conservation**.
+
+**Related Actions:**
+[Brace](11_actions.md#Brace)
+[Deflect](11_actions.md#Deflect)
+
+---
 ### Light Armor 
 *Wearing and maneuvering in minimal or flexible protective gear*
 
@@ -130,17 +167,56 @@ Light Armor reflects a character’s ability to move comfortably while wearing m
 [Deflect](11_actions.md#Deflect)
 
 ---
-### Heavy Armor
-*Endurance, stance, and control while wearing bulky protective gear*
+### Manipulation (Magic)
+*Command over physical matter—movement, reshaping, or force*
 
-Heavy Armor reflects a character’s training and discipline while encased in full or partial rigid armor, such as mail, plate, or reinforced constructs. It emphasizes endurance, stability, and the ability to operate effectively despite the constraints of weight and bulk. Skilled users can move efficiently, absorb blows, and minimize fatigue or vulnerability due to encumbrance.
+The Manipulation skill governs your ability to control and reshape the physical world without destroying it. Lifting, bending, sealing, or constructing via magical influence are all within this domain.
 
-- Affects use of **chainmail, scale, plate, and other heavy gear**.
-- Emphasizes **protection, stance, and energy conservation**.
+- Used for **moving objects, altering terrain, or reshaping matter**.
+- Common in **utility, puzzle-solving, and control-focused encounters**.
 
-**Related Actions:**
-[Brace](11_actions.md#Brace)
-[Deflect](11_actions.md#Deflect)
+**Related Actions**:  
+[Cast](10_magic.md#Cast)
+
+---
+### Medicine
+*Knowledge and practice of treating injuries, stabilizing wounds, and preventing physical deterioration*
+
+The Medicine skill represents a character’s understanding of the body—how it breaks, how it heals, and what can be done to assist or accelerate recovery. This skill encompasses battlefield first aid, diagnosis of injuries, application of herbal or improvised remedies, and long-term care. It is essential for treating wounded companions, especially in dangerous or resource-limited environments.
+
+Medicine is most effective when paired with the right tools (bandages, splints, antiseptics), but a skilled healer can improvise with what’s on hand. This skill does not allow for magical healing, but may be used alongside it where appropriate.
+
+- Used for actions involving **stabilizing critical wounds, treating injuries, and supporting long-term recovery**.
+- Unlike Crafting or Alchemy, this skill focuses on living bodies, not materials or concoctions.
+- Common in **aftermath of combat, survival situations, and extended travel**.
+
+**Related Actions**:  
+[Stabilize Wound](11_actions.md#Stabilize-Wound)  
+[Treat Wound](11_actions.md#Treat-Wound)
+
+---
+### Perception (Magic)
+*Expanded awareness and magical sight beyond the mundane*
+
+The Perception skill governs your ability to sense hidden truths—detecting auras, illusions, enchantments, or distant events. This domain enhances knowledge rather than action.
+
+- Used for **detecting magic, illusions, or invisible forces**.
+- Common in **exploration, investigation, and arcane analysis**.
+
+**Related Actions**:  
+[Cast](10_magic.md#Cast)
+
+---
+### Protection (Magic)
+*The shielding force—resisting harm and preserving life*
+
+The Protection skill governs your ability to block attacks, absorb force, and shield yourself or others from damage or danger. This domain favors reactive and defensive tactics.
+
+- Used for **creating barriers, wards, or resistance to harm**.
+- Common in **defense, group support, and countermeasures**.
+
+**Related Actions**:  
+[Cast](10_magic.md#Cast)
 
 ---
 ### Resolve
@@ -156,6 +232,18 @@ Resolve represents a character’s inner strength—the ability to resist fear, 
 [Intimidate](11_actions.md#Intimidate)
 
 ---
+### Restoration (Magic)
+*The power to heal, purify, and mend what has been damaged*
+
+The Restoration skill governs your ability to restore vitality, close wounds, or purge harmful conditions. While not a cure-all, this domain is often the difference between survival and loss.
+
+- Used for **healing wounds and removing harmful effects**.
+- Common in **aftermath of combat, disease, or magical affliction**.
+
+**Related Actions**:  
+[Cast](10_magic.md#Cast)
+
+---
 ### Stealth
 *Concealment of movement, presence, and intention*
 
@@ -168,3 +256,17 @@ Stealth represents a character’s ability to remain unnoticed by others—throu
 [Hide](11_actions.md#Hide)
 [Move Undetected](11_actions.md#Move%20Undetected)
 [Shadow Strike](11_actions.md#Shadow%20Strike)
+
+---
+### Summoning (Magic)
+*The calling of entities or objects from elsewhere*
+
+The Summoning skill governs your ability to bring creatures, objects, or spirits into the current plane. These manifestations may be brief, autonomous, or persistent depending on the effort and intent.
+
+- Used for **calling allies, creating tools, or populating the field**.
+- Common in **support, battlefield control, and exploration utility**.
+
+**Related Actions**:  
+[Cast](10_magic.md#Cast)
+
+---

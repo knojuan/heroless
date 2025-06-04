@@ -39,6 +39,35 @@ You hold your ground, shifting your stance and tightening behind your armor to a
 - Must be **stationary** to use this action.
 
 ---
+### Cast  
+*2 AP*
+
+You invoke magical power through practiced command of a specific domain. Effects are described narratively by the player and resolved mechanically based on the scope of the effect .
+
+[See: 10_magic.md](10_magic.md)
+
+- Choose a **Domain Skill** that aligns with your intended magical effect.
+- Choose a **Source** of magic
+- Describe the effect you wish to create.
+- Roll **2d6 + domain skill modifier** vs the assigned DC.
+
+**On success**:
+- The intended effect occurs as described.
+- The effect lasts **1 round** by default.
+
+**To extend the effect**:
+- Spend **2 AP** again on your next turn.
+- Roll again vs **original DC + 1 per additional round**.
+
+- **Duration**: All effects last **1 round** by default. To extend:
+  - Spend the **same AP cost** again on your next turn
+  - Roll again vs **DC + 1 per additional round**
+
+*Only one magical effect may be actively maintained at a time.*
+
+*See the magic rules for guidance on assigning DCs, examples of effect magnitude, and source-specific complications.*
+
+---
 ### Deflect
 *1 AP | Requires Armor Equipped*
 
@@ -137,6 +166,20 @@ You present a falsehood as truth using confidence, omission, or manipulation. Th
 *Repeated use against the same target increases DC. Complex lies may require supporting evidence or coordination with other actions.*
 
 ---
+### Hide
+*1 AP | Requires Cover*
+
+You duck into shadows, behind obstacles, or into the landscape, using the terrain to break line of sight. Hiding is not invisibility—it’s about exploiting the moment.
+
+- Must be adjacent to or within an area that provides **sufficient concealment**.
+- Make a Hide check using your **Stealth skill**.
+- Observers must beat your result with a relevant **Perception or Awareness check** to detect you.
+- Being spotted or taking an action (other than movement between cover) ends the hidden state.
+
+*Situational Modifiers*
+- Heavy armor (–1 to the roll)
+
+---
 ### Intimidate  
 *1 AP | Requires leverage, threat, or demonstration of force*
 
@@ -222,18 +265,32 @@ You push your body beyond normal pacing, covering more ground at the expense of 
 - Move **2x your base movement speed** plus your **Athletic skill modifier**.
 
 ---
-### Hide
-*1 AP | Requires Cover*
+### Stabilize Wound  
+*1 AP*
 
-You duck into shadows, behind obstacles, or into the landscape, using the terrain to break line of sight. Hiding is not invisibility—it’s about exploiting the moment.
+You act quickly to prevent a dying character from slipping away—compressing a wound, applying a makeshift tourniquet, or steadying shallow breaths. This is emergency triage, not recovery.
 
-- Must be adjacent to or within an area that provides **sufficient concealment**.
-- Make a Hide check using your **Stealth skill**.
-- Observers must beat your result with a relevant **Perception or Awareness check** to detect you.
-- Being spotted or taking an action (other than movement between cover) ends the hidden state.
+[Medicine](04_skills.md#Medicine)
+- Choose a Wounded and Incapacitated target within reach
+- Roll **Medicine vs DC 8**
+- On success: The target is **Stabilized** and will no longer worsen from their current wounds
+- On failure: The target remains unstable and continues deteriorating per normal wound rules
 
 *Situational Modifiers*
-- Heavy armor (–1 to the roll)
+- Apply **–2** penalty if no healer’s kit is used.
+
+---
+### Treat Wound  
+*3 AP*
+
+You take time to clean, set, and dress a wound—reducing its severity through practiced technique and careful attention. This is battlefield medicine, not long-term care, but it’s often enough to restore a fighter to action.
+
+[Medicine](04_skills.md#Medicine)
+- Choose a wounded target within reach
+- Roll **Medicine vs wound's DC** (see [Wound Resolution Table](08_woundslots.md)) for the effects
+
+*Situational Modifiers*
+- Apply **–2** penalty if no healer’s kit is used.
 
 ---
 ### Use
