@@ -37,6 +37,7 @@ All magic must be fueled by one of two sources. Both cost **2 AP** to cast.
 
 ---
 ## Degree-Based Resource Cost
+
 |Result Range|Result Type|**Raw Magic**|**Sacrificial Magic**|
 |---|---|---|---|
 |Roll ≤ DC – 3|Critical Failure|3 Exhaustion|3 × Level 3 Wounds|
@@ -52,6 +53,7 @@ All magic must be fueled by one of two sources. Both cost **2 AP** to cast.
 ---
 ## Modifiers
 ### Range Modifiers
+
 |Range|Description|Distance|Modifier|
 |---|---|---|---|
 |Touch|Self or adjacent target|≤ 5 ft|+0|
@@ -61,6 +63,7 @@ All magic must be fueled by one of two sources. Both cost **2 AP** to cast.
 > _Line of sight or magical path must be clear._
 
 ### Area Modifiers
+
 |Area|Description|Modifier|
 |---|---|---|
 |Target|Single entity or object|+0|
@@ -68,6 +71,7 @@ All magic must be fueled by one of two sources. Both cost **2 AP** to cast.
 |Large|~20 ft radius / group zone|+4|
 
 ### Magnitude Modifiers
+
 |Magnitude|Description|Effect Dice|Modifier|
 |---|---|---|---|
 |Minor|Simple or limited effect|1d6|+0|

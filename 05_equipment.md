@@ -53,11 +53,11 @@ Rather than dealing static damage, weapons modify how attacks hit and how badly 
 ### Weapon Types
 Each weapon belongs to one of three core types. These types determine how the weapon modifies an attack roll:
 
-|Type|Roll Mod.|Wound Mod.|
-|---|---|---|
-|Piercing|-2|+2|
-|Slashing|0|0|
-|Blunt|+2|-2|
+|Type|Roll Modifier|
+|---|---|
+|Slashing|+1 against Unarmored|
+|Piercing|+1 against Light Armor; -1 against Heavy Armor|
+|Blunt|+1 against Heavy Armor; -1 against Light Armor|
 
 - Roll Modifier is added to the final result of the attack roll.
 - Wound Modifier adjusts the wound level if a wound is inflicted.

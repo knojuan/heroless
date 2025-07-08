@@ -79,6 +79,7 @@ Instead of absorbing the full brunt of the attack, you shift your posture to let
 	- **Deflect DC = 8 + your armor skill modifier** (Light or Heavy Armor)
 	- If the attacker’s roll is **less than the DC**, your armor takes **no durability damage**.
 	- If the roll is **equal to or higher**, armor loses durability as normal.
+	- This action does not prevent injury, only the durability loss incurred by the armor. Record your injury as usual.
 
 ---
 ### Evade
@@ -89,9 +90,7 @@ With a quick read of your opponent’s movement, you attempt to slip aside at ju
 [Agility](04_skills.md#Agility)
 - Declare before an incoming attack roll.  
 - The attacker’s roll is reduced by **1 + Agility skill level**.  
-- If the modified result causes the attack to miss, no wound or armor damage occurs.  
-- Can only be used once per round.  
-- May not be used if **immobilized** or if you did not move this round.
+- If the modified result causes the attack to miss, no wound or armor damage occurs.
 
 ---
 ## Offensive
@@ -103,7 +102,6 @@ With a quick read of your opponent’s movement, you attempt to slip aside at ju
 - Add your **weapon skill bonus** and the weapon’s **Roll Modifier**.  
 - Compare the final result to the **Attack Resolution Table**.  
 - If the result indicates a wound:
-	- Apply the weapon’s **Wound Modifier** to adjust the wound level.
 	- Apply **armor wound reduction** (if any).
 	- Apply the final wound level to the target.
 	- Armor loses **1 durability** if it reduced the wound by any amount.
@@ -144,7 +142,7 @@ You target the armor, not the body—hammering, prying, or tearing with the inte
 ### Assist
 *1 AP | Requires Proximity*
 
-You lend your attention, effort, or expertise to support another character's action. Assisting can mean helping lift a barrier, providing light, holding a tool, or offering verbal guidance.
+You lend your attention, effort, or expertise to support a nearby character's action. Assisting can mean helping lift a barrier, providing light, holding a tool, or offering verbal guidance.
 
 - Declare your intent to assist before the primary character makes their roll.
 - You must be within reach or have the means to meaningfully contribute.
